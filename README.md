@@ -7,3 +7,7 @@
 4. **git commit -m "message de commit":** pour ajouter une modification à un repository une branche
 5. **git branch: ** pour afficher les branches du repository
 6. **git branch nomBranch:** pour créer la branche
+7. **git checkout -b <<nombranch>>:** pour créer une branche, si elle n'existe pas 
+	sinon changer de branche
+8. **git checkout <commitnumber> index.html:** pour aller à un commit 
+9. **git reset <commitnumber> index.html:** pour annuler l'action précedente 
