@@ -28,4 +28,4 @@
 > que je n'ai pas encore commités. Possible ?
 
 * Possible avec un reset
-<code> git reset --hard‌</code
+**git reset --hard‌**
